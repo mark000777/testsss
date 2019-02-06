@@ -10,7 +10,7 @@
                 "portrait":"http://callshow.antiviruscanonline.com/img/avatar/Adrian.png",
                 "refuse":"http://callshow.antiviruscanonline.com/img/20171124/calling_icon_refuse.png",
                 "answer":"http://callshow.antiviruscanonline.com/img/20171124/calling_icon_answer.png",
-                "theme":"http://callshow.antiviruscanonline.com/img/20180329/theme23xj.png",
+                "preview":"http://callshow.antiviruscanonline.com/img/20180329/theme23xj.png",
                 "gif":"http://callshow.antiviruscanonline.com/img/20180329/theme23x_fire.gif"
             },
             {
@@ -20,7 +20,7 @@
                 "portrait":"http://callshow.antiviruscanonline.com/img/avatar/Alisa.png",
                 "refuse":"http://callshow.antiviruscanonline.com/img/20171124/calling_icon_refuse.png",
                 "answer":"http://callshow.antiviruscanonline.com/img/20171124/calling_icon_answer.png",
-                "theme":"http://callshow.antiviruscanonline.com/img/20180329/theme26xj.png",
+                "preview":"http://callshow.antiviruscanonline.com/img/20180329/theme26xj.png",
                 "gif":"http://callshow.antiviruscanonline.com/img/20180329/theme26_Color%20cube.gif"
             }
         ]
