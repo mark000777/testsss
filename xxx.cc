@@ -3,14 +3,14 @@
     "data":{
         "count":16,
         "list":[
-       {
+                    {
             "title":"BallRoom",
             "id": 1,
             "caller": "Adrian",
             "portrait":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/ballroom/Adrian.png",
             "refuse":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/ballroom/calling_icon_refuse.png",
             "answer":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/ballroom/calling_icon_answer.png",
-            "theme":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/ballroom/Ballroom.png",
+            "preview":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/ballroom/Ballroom.png",
             "gif":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/ballroom/Ballroom.gif"
         },
         {
@@ -20,7 +20,7 @@
             "portrait":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/bird/Alisa.png",
             "refuse":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/bird/calling_icon_refuse.png",
             "answer":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/bird/calling_icon_answer.png",
-            "theme":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/bird/Bird.png",
+            "preview":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/bird/Bird.png",
             "gif":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/bird/Bird.gif"
         },{
             "title":"Butterfly",
@@ -29,7 +29,7 @@
             "portrait":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/butterfly/Adrian.png",
             "refuse":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/butterfly/calling_icon_refuse.png",
             "answer":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/butterfly/calling_icon_answer.png",
-            "theme":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/butterfly/Butterfly.png",
+            "preview":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/butterfly/Butterfly.png",
             "gif":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/butterfly/Butterfly.gif"
         },
         {
@@ -39,7 +39,7 @@
             "portrait":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/colorcute/Alisa.png",
             "refuse":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/colorcute/calling_icon_refuse.png",
             "answer":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/colorcute/calling_icon_answer.png",
-            "theme":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/colorcute/theme26xj.png",
+            "preview":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/colorcute/theme26xj.png",
             "gif":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/colorcute/theme26_Color cube.gif"
         },{
             "title":"Cool Wind",
@@ -48,7 +48,7 @@
             "portrait":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/coolwind/Adrian.png",
             "refuse":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/coolwind/calling_icon_refuse.png",
             "answer":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/coolwind/calling_icon_answer.png",
-            "theme":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/coolwind/Coolwind.png",
+            "preview":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/coolwind/Coolwind.png",
             "gif":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/coolwind/Coolwind.gif"
         },
         {
@@ -58,7 +58,7 @@
             "portrait":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/diamonds/Alisa.png",
             "refuse":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/diamonds/calling_icon_refuse.png",
             "answer":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/diamonds/calling_icon_answer.png",
-            "theme":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/diamonds/Diamonds.png",
+            "preview":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/diamonds/Diamonds.png",
             "gif":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/diamonds/Diamonds.gif"
         },{
             "title":"Electronic",
@@ -67,7 +67,7 @@
             "portrait":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/electronic/Adrian.png",
             "refuse":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/electronic/calling_icon_refuse.png",
             "answer":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/electronic/calling_icon_answer.png",
-            "theme":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/electronic/Electronic.png",
+            "preview":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/electronic/Electronic.png",
             "gif":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/electronic/Electronic.gif"
         },
         {
@@ -77,7 +77,7 @@
             "portrait":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/fire/Alisa.png",
             "refuse":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/fire/calling_icon_refuse.png",
             "answer":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/fire/calling_icon_answer.png",
-            "theme":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/fire/theme23xj.png",
+            "preview":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/fire/theme23xj.png",
             "gif":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/fire/theme23x_fire.gif"
         },{
             "title":"Fireworks",
@@ -86,7 +86,7 @@
             "portrait":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/firework/Adrian.png",
             "refuse":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/firework/calling_icon_refuse.png",
             "answer":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/firework/calling_icon_answer.png",
-            "theme":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/firework/Fireworks.png",
+            "preview":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/firework/Fireworks.png",
             "gif":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/firework/Fireworks.gif"
         },
         {
@@ -96,7 +96,7 @@
             "portrait":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/flash/Alisa.png",
             "refuse":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/flash/calling_icon_refuse.png",
             "answer":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/flash/calling_icon_answer.png",
-            "theme":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/flash/Flash.png",
+            "preview":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/flash/Flash.png",
             "gif":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/flash/Flash.gif"
         },{
             "title":"Geometry",
@@ -105,7 +105,7 @@
             "portrait":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/geometry/Adrian.png",
             "refuse":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/geometry/calling_icon_refuse.png",
             "answer":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/geometry/calling_icon_answer.png",
-            "theme":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/geometry/Geometry.png",
+            "preview":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/geometry/Geometry.png",
             "gif":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/geometry/Geometry.gif"
         },
         {
@@ -115,7 +115,7 @@
             "portrait":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/kaleidoscope/Alisa.png",
             "refuse":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/kaleidoscope/calling_icon_refuse.png",
             "answer":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/kaleidoscope/calling_icon_answer.png",
-            "theme":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/kaleidoscope/Kaleidoscope.png",
+            "preview":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/kaleidoscope/Kaleidoscope.png",
             "gif":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/kaleidoscope/Kaleidoscope.gif"
         },{
             "title":"Melt",
@@ -124,7 +124,7 @@
             "portrait":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/melt/Adrian.png",
             "refuse":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/melt/calling_icon_refuse.png",
             "answer":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/melt/calling_icon_answer.png",
-            "theme":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/melt/Melt.png",
+            "preview":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/melt/Melt.png",
             "gif":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/melt/Melt.gif"
         },
         {
@@ -134,7 +134,7 @@
             "portrait":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/strongfire/Alisa.png",
             "refuse":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/strongfire/calling_icon_refuse.png",
             "answer":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/strongfire/calling_icon_answer.png",
-            "theme":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/strongfire/Fire.png",
+            "preview":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/strongfire/Fire.png",
             "gif":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/strongfire/Fire.gif"
         },{
             "title":"Universe",
@@ -143,7 +143,7 @@
             "portrait":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/universe/Adrian.png",
             "refuse":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/universe/calling_icon_refuse.png",
             "answer":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/universe/calling_icon_answer.png",
-            "theme":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/universe/Universe.png",
+            "preview":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/universe/Universe.png",
             "gif":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/universe/Universe.gif"
         },
         {
@@ -153,7 +153,7 @@
             "portrait":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/water/Alisa.png",
             "refuse":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/water/calling_icon_refuse.png",
             "answer":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/water/calling_icon_answer.png",
-            "theme":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/water/Water.png",
+            "preview":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/water/Water.png",
             "gif":"https://raw.githubusercontent.com/zhaohuazhaoshi/xuancai/master/water/Water.gif"
         }
         ]
