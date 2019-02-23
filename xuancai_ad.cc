@@ -8,7 +8,7 @@
         "ad_app_id": "1101152570",
         "keywords": "",
         "ad_unit_id": "8863364436303842593",
-        "quantity": 100
+        "quantity": 0
       },
       {
         "platform": "baidu",
@@ -28,7 +28,7 @@
         "ad_app_id": "1101152570",
         "keywords": "",
         "ad_unit_id": "7030020348049331",
-        "quantity": 100
+        "quantity": 0
       },
       {
         "platform": "baidu",
@@ -48,7 +48,7 @@
         "ad_app_id": "1101152570",
         "keywords": "",
         "ad_unit_id": "9079537218417626401",
-        "quantity": 100
+        "quantity": 0
       },
       {
         "platform": "baidu",
